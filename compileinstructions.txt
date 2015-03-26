@@ -1,0 +1,8 @@
+When running on unix, go to main folder and run the following commands to compile:
+
+qmake-qt4 -project
+qmake-qt4
+make
+
+Then you may execute the program by running:
+./main
